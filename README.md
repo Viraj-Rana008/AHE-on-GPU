@@ -5,3 +5,9 @@ GPU implementation of Adaptive Histogram Equalizations
 - Resource:
 -   See: https://en.wikipedia.org/wiki/Histogram_equalization
 -   See: https://en.wikipedia.org/wiki/Adaptive_histogram_equalization
+
+
+## Execution: ##
+- store files in working directory
+- $ cmake .
+- $ make
